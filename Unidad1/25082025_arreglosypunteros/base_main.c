@@ -16,6 +16,7 @@ int main(void) {
     
     int **matriz_dinamica = (int **)malloc(10 * sizeof(int*));
     
+    
 
 
     // liberar memoria
