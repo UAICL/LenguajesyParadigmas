@@ -1,2 +1,7 @@
 t1_base/
+t3_base/
 ManualGit/
+*.hi
+*.o
+.stack-work/
+Libros/

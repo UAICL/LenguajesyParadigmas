@@ -1,6 +1,7 @@
 module Main (main) where
 
 import Funciones
+import Articulos
 
 main :: IO ()
 main = do
@@ -23,3 +24,5 @@ main = do
   print( filter (>3) ll )  -- números pares de la lista
 
   print("Hola No" ++ show(10+11))
+
+  print( articulos !! 0)
